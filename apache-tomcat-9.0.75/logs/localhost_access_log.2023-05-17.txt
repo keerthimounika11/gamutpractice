@@ -1,0 +1,7 @@
+127.0.0.1 - - [17/May/2023:23:56:36 +0530] "GET /gamutgurus/ HTTP/1.1" 200 4625
+127.0.0.1 - - [17/May/2023:23:56:37 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+127.0.0.1 - - [17/May/2023:23:56:37 +0530] "GET /gamutgurus/css/main.css HTTP/1.1" 200 516
+127.0.0.1 - - [17/May/2023:23:56:37 +0530] "GET /gamutgurus/css/sticky-footer-navbar.css HTTP/1.1" 200 434
+127.0.0.1 - - [17/May/2023:23:56:37 +0530] "GET /gamutgurus/css/bootstrap.min.css HTTP/1.1" 200 121208
+127.0.0.1 - - [17/May/2023:23:56:37 +0530] "GET /gamutgurus/js/bootstrap.min.js HTTP/1.1" 200 37051
+127.0.0.1 - - [17/May/2023:23:56:49 +0530] "GET /favicon.ico HTTP/1.1" 200 8192

@@ -1,0 +1,45 @@
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-May-2023 23:55:43.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.75
+17-May-2023 23:55:43.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 4 2023 13:04:05 UTC
+17-May-2023 23:55:43.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.75.0
+17-May-2023 23:55:43.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+17-May-2023 23:55:43.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.19.0-41-generic
+17-May-2023 23:55:43.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+17-May-2023 23:55:43.410 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+17-May-2023 23:55:43.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.18+10-post-Ubuntu-0ubuntu122.04
+17-May-2023 23:55:43.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+17-May-2023 23:55:43.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75
+17-May-2023 23:55:43.411 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75
+17-May-2023 23:55:43.449 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+17-May-2023 23:55:43.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+17-May-2023 23:55:43.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+17-May-2023 23:55:43.450 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-May-2023 23:55:43.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-May-2023 23:55:43.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/conf/logging.properties
+17-May-2023 23:55:43.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-May-2023 23:55:43.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+17-May-2023 23:55:43.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-May-2023 23:55:43.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+17-May-2023 23:55:43.451 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+17-May-2023 23:55:43.452 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75
+17-May-2023 23:55:43.452 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75
+17-May-2023 23:55:43.452 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/temp
+17-May-2023 23:55:43.457 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+17-May-2023 23:55:44.167 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+17-May-2023 23:55:44.232 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1268] milliseconds
+17-May-2023 23:55:44.376 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+17-May-2023 23:55:44.376 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.75]
+17-May-2023 23:55:44.397 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/gamutgurus.war]
+17-May-2023 23:55:44.982 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/gamutgurus.war] has finished in [561] ms
+17-May-2023 23:55:44.983 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/ROOT]
+17-May-2023 23:55:45.007 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/ROOT] has finished in [24] ms
+17-May-2023 23:55:45.008 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/manager]
+17-May-2023 23:55:45.068 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/manager] has finished in [60] ms
+17-May-2023 23:55:45.069 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/docs]
+17-May-2023 23:55:45.105 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/docs] has finished in [36] ms
+17-May-2023 23:55:45.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/examples]
+17-May-2023 23:55:45.490 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/examples] has finished in [382] ms
+17-May-2023 23:55:45.490 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/host-manager]
+17-May-2023 23:55:45.526 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/keerthi/distros/gamutkart2/apache-tomcat-9.0.75/webapps/host-manager] has finished in [36] ms
+17-May-2023 23:55:45.545 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-May-2023 23:55:45.584 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1350] milliseconds
